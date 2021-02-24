@@ -25,7 +25,7 @@ SECRET_KEY = 'h-y64ak668g(^80r=743(_74sl!*k#8cf^8bjg_+s5)bsd^2^_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["django-poc-cx3nr7ta7q-ue.a.run.app"]
 
 
 # Application definition
